@@ -5,3 +5,5 @@
 This is my first data analysis using the R programming language.
 
 I have included the CSV file used for this analysis with the repository. It was obtained from the [UK Government website](https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-june-2023)
+
+<img src="./semi-detached-house-prices-derby-leicester-staffs-warwickshire.png" />
